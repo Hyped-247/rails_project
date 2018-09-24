@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   get 'welcome/home', to: 'welcome#home'
   get 'welcome/about', to: 'welcome#about'
   get 'welcome/k', to: 'welcome#k'
+  get 'welcome/students', to: 'welcome#k'
 
 
   # Example of regular route:
