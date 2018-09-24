@@ -1,4 +1,3 @@
-
 class WelcomeController < ApplicationController
 
   def home
@@ -6,6 +5,10 @@ class WelcomeController < ApplicationController
   end
 
   def about
+
+  end
+
+  def k
 
   end
 end
