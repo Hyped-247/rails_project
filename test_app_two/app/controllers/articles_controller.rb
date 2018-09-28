@@ -6,19 +6,4 @@ class ArticlesController < ApplicationController
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 end
