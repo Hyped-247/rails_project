@@ -4,6 +4,10 @@ class ArticlesController < ApplicationController
     @article = Article.new
   end
 
+  def show
+    @article = Article.find(params[:id])
+  end
+
   def create
     # render plain: params[:article].inspect
     @article = Article.new(articles_params)
@@ -14,8 +18,6 @@ class ArticlesController < ApplicationController
         # you can do this render 'new' or this render :new
         render 'new'
     end
-
-
     # @article.save
     # redirect_to articles_path(@article)
   end
@@ -24,5 +26,6 @@ class ArticlesController < ApplicationController
     def articles_params
       params.require(:article).permit(:title, :description)
     end
+
 
 end
