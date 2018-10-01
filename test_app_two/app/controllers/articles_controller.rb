@@ -10,7 +10,7 @@ class ArticlesController < ApplicationController
 
   def edit
     @article = Article.find(params[:id])
-    if @article.update
+    if @article.update(articles_params)
       flash[:notice] = "Article was updated successfully."
       redirect_to article_path(@article)
     else
@@ -19,6 +19,7 @@ class ArticlesController < ApplicationController
   end
 
   def create
+    binding.pry
     # render plain: params[:article].inspect
     @article = Article.new(articles_params)
     if @article.save
@@ -31,11 +32,8 @@ class ArticlesController < ApplicationController
     # @article.save
     # redirect_to articles_path(@article)
   end
-
   private
     def articles_params
       params.require(:article).permit(:title, :description)
     end
-
-
 end
