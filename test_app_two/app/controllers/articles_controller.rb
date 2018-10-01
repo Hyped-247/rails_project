@@ -19,7 +19,7 @@ class ArticlesController < ApplicationController
   end
 
   def create
-    binding.pry
+    # binding.pry
     # render plain: params[:article].inspect
     @article = Article.new(articles_params)
     if @article.save
