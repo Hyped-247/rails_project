@@ -4,9 +4,7 @@
     <list default="true" id="092fcf79-2f95-4c0b-a999-e1bbaf32df4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_app_two/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/test_app_two/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app_two/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/test_app_two/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app_two/app/models/article.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test_app_two/app/models/article.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,24 +19,25 @@
     <session id="1454013380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="6" />
-          <entry key="erb" value="8" />
+          <entry key="Gemfile" value="7" />
+          <entry key="erb" value="18" />
           <entry key="erg" value="1" />
-          <entry key="html" value="7" />
+          <entry key="html" value="8" />
           <entry key="jbuilder" value="1" />
           <entry key="rb" value="38" />
           <entry key="rdoc" value="2" />
@@ -47,27 +46,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RDOC" value="2" />
-          <entry key="RHTML" value="8" />
-          <entry key="Ruby" value="45" />
+          <entry key="RHTML" value="18" />
+          <entry key="Ruby" value="46" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="92" />
-          <entry key="erb" value="1146" />
+          <entry key="Gemfile" value="93" />
+          <entry key="erb" value="1718" />
           <entry key="erg" value="14" />
-          <entry key="rb" value="1375" />
+          <entry key="html" value="1" />
+          <entry key="rb" value="1827" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="RHTML" value="1146" />
-          <entry key="Ruby" value="1467" />
+          <entry key="RHTML" value="1718" />
+          <entry key="Ruby" value="1920" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -86,56 +87,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="-397">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_app_two/app/models/article.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_app_two/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="-351">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb">
+        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="138">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -143,8 +126,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="9" selection-start-line="1" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/_messages.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -187,16 +197,20 @@
         <option value="$PROJECT_DIR$/test_app_two/app/models/articales.rb" />
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb.html" />
         <option value="$PROJECT_DIR$/test_app_two/config/routes.rb" />
-        <option value="$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb.html" />
-        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erg" />
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erg.html" />
-        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/models/article.rb" />
-        <option value="$PROJECT_DIR$/test_app_two/Gemfile" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb.html" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/_form.html.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/layouts/messages.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" />
+        <option value="$PROJECT_DIR$/test_app_two/Gemfile" />
       </list>
     </option>
   </component>
@@ -216,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,25 +261,34 @@
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
               <item name="test_app_two" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
               <item name="test_app_two" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
               <item name="test_app_two" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rails_project" type="462c0819:PsiDirectoryNode" />
+              <item name="test_app_two" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,16 +436,20 @@
       <workItem from="1538191702236" duration="326000" />
       <workItem from="1538205205616" duration="230000" />
       <workItem from="1538257941763" duration="188000" />
+      <workItem from="1538423229035" duration="3707000" />
+      <workItem from="1538435120851" duration="566000" />
+      <workItem from="1538767067343" duration="1465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29208000" />
+    <option name="totallyTimeSpent" value="34946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1558966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.110662356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,8 +462,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.79320115" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4983845" visible="true" weight="0.09490085" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5016155" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -500,24 +528,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_app/app/controllers/articles_controller.rb" />
-    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_app_two/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -535,38 +549,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="161">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="9" selection-start-line="1" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/_messages.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="-397">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
