@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="092fcf79-2f95-4c0b-a999-e1bbaf32df4a" name="Default Changelist" comment="" />
+    <list default="true" id="092fcf79-2f95-4c0b-a999-e1bbaf32df4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Gemfile" value="7" />
+          <entry key="Gemfile" value="8" />
           <entry key="erb" value="18" />
           <entry key="erg" value="1" />
           <entry key="html" value="8" />
@@ -46,17 +48,17 @@
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RDOC" value="2" />
           <entry key="RHTML" value="18" />
-          <entry key="Ruby" value="47" />
+          <entry key="Ruby" value="48" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Gemfile" value="93" />
+          <entry key="Gemfile" value="96" />
           <entry key="erb" value="1718" />
           <entry key="erg" value="14" />
           <entry key="html" value="1" />
-          <entry key="rb" value="1827" />
+          <entry key="rb" value="1828" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -64,7 +66,7 @@
           <entry key="HTML" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="RHTML" value="1718" />
-          <entry key="Ruby" value="1920" />
+          <entry key="Ruby" value="1924" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -74,9 +76,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -131,6 +146,8 @@
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" />
         <option value="$PROJECT_DIR$/test_app_two/Gemfile" />
+        <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -161,12 +178,7 @@
             <path>
               <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rails_project" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,12 +333,12 @@
       <workItem from="1538257941763" duration="188000" />
       <workItem from="1538423229035" duration="3707000" />
       <workItem from="1538435120851" duration="566000" />
-      <workItem from="1538767067343" duration="1636000" />
+      <workItem from="1538767067343" duration="1878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35117000" />
+    <option name="totallyTimeSpent" value="35359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -503,7 +515,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
