@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092fcf79-2f95-4c0b-a999-e1bbaf32df4a" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/pids/server.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/pids/server.pid" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/20181005211809_create_comments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20181005211809_create_comments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+>>>>>>> user-validations
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,27 +27,46 @@
     <session id="1454013380">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="12" />
+=======
+          <entry key="project.closed" value="11" />
+>>>>>>> user-validations
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
+<<<<<<< HEAD
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.86" value="1" />
           <entry key="project.opened" value="13" />
+=======
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="11" />
+>>>>>>> user-validations
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Gemfile" value="9" />
           <entry key="erb" value="18" />
           <entry key="erg" value="1" />
           <entry key="html" value="8" />
           <entry key="jbuilder" value="1" />
           <entry key="rb" value="42" />
+=======
+          <entry key="Gemfile" value="6" />
+          <entry key="erb" value="9" />
+          <entry key="erg" value="1" />
+          <entry key="html" value="8" />
+          <entry key="jbuilder" value="1" />
+          <entry key="rb" value="52" />
+>>>>>>> user-validations
           <entry key="rdoc" value="2" />
           <entry key="yml" value="3" />
         </counts>
@@ -51,8 +76,13 @@
           <entry key="HTML" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RDOC" value="2" />
+<<<<<<< HEAD
           <entry key="RHTML" value="18" />
           <entry key="Ruby" value="52" />
+=======
+          <entry key="RHTML" value="9" />
+          <entry key="Ruby" value="59" />
+>>>>>>> user-validations
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
@@ -61,16 +91,28 @@
           <entry key="Gemfile" value="97" />
           <entry key="erb" value="1718" />
           <entry key="erg" value="14" />
+<<<<<<< HEAD
           <entry key="html" value="1" />
           <entry key="rb" value="1835" />
+=======
+          <entry key="html" value="132" />
+          <entry key="rb" value="1668" />
+>>>>>>> user-validations
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="RHTML" value="1718" />
           <entry key="Ruby" value="1932" />
+=======
+          <entry key="HTML" value="132" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="RHTML" value="1146" />
+          <entry key="Ruby" value="1760" />
+>>>>>>> user-validations
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -80,6 +122,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,6 +146,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="828">
               <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> user-validations
             </state>
           </provider>
         </entry>
@@ -113,6 +163,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Ruby Module Template" />
+        <option value="RSpec Test Template" />
+        <option value="Ruby Class Template" />
         <option value="HTML File" />
       </list>
     </option>
@@ -158,10 +210,20 @@
         <option value="$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/views/articles/index.html.erb" />
         <option value="$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test_app_two/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+=======
+        <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181005210747_create_users.rb" />
+        <option value="$PROJECT_DIR$/app/views/welcome/index.html" />
+        <option value="$PROJECT_DIR$/db/migrate/20181005211809_create_comments.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+>>>>>>> user-validations
       </list>
     </option>
   </component>
@@ -189,6 +251,7 @@
               <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="rails_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="rails_project" type="462c0819:PsiDirectoryNode" />
@@ -206,6 +269,8 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> user-validations
           </expand>
           <select />
         </subPane>
@@ -214,6 +279,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="routes&#9;FILE&#9;file:///Users/mohammad/Desktop/rails_project/config/routes.rb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -357,20 +423,32 @@
       <workItem from="1538191702236" duration="326000" />
       <workItem from="1538205205616" duration="230000" />
       <workItem from="1538257941763" duration="188000" />
+<<<<<<< HEAD
       <workItem from="1538423229035" duration="3707000" />
       <workItem from="1538435120851" duration="566000" />
       <workItem from="1538767067343" duration="2797000" />
+=======
+      <workItem from="1539030155085" duration="2168000" />
+>>>>>>> user-validations
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="36278000" />
+=======
+    <option name="totallyTimeSpent" value="33081000" />
+>>>>>>> user-validations
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12035541" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.075121164" />
+>>>>>>> user-validations
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -383,8 +461,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4983845" visible="true" weight="0.062322944" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5016155" side_tool="true" weight="0.3286119" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4362606" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+>>>>>>> user-validations
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -433,21 +516,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_app/db/migrate/20180924210357_create_articles.rb" />
-    <entry file="file://$PROJECT_DIR$/test_app_two/db/migrate/20180924222340_add_author_to_articles.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_app_two/db/migrate/20180924222340_add_author_to_articles.rb" />
     <entry file="file://$PROJECT_DIR$/test_app/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/test_app_two/db/migrate/20180924221142_create_articles.rb">
+    <entry file="file://$PROJECT_DIR$/test_app_two/db/migrate/20180924221142_create_articles.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app/app/controllers/articles_controller.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/layouts/application.html.erb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/config/routes.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/db/schema.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/application_controller.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/models/article.rb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/show.html.erb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/new.html.erb" />
+    <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb" />
+    <entry file="file://$PROJECT_DIR$/app/controllers/comments_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="207">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/articles/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test_app/app/controllers/articles_controller.rb" />
     <entry file="file://$PROJECT_DIR$/test_app_two/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -474,11 +571,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-478">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/db/schema.rb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+>>>>>>> user-validations
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="385">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
@@ -495,11 +606,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="20" />
+=======
+        <state relative-caret-position="276">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/app/views/articles/edit.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/comment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+>>>>>>> user-validations
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="46">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
@@ -523,11 +660,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+=======
+        <state relative-caret-position="138">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_app_two/app/controllers/articles_controller.rb">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181005211809_create_comments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181005210747_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+>>>>>>> user-validations
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-397">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
@@ -565,6 +728,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-788">
           <caret line="2" column="68" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="68" />
+=======
+        <state relative-caret-position="92">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> user-validations
         </state>
       </provider>
     </entry>
