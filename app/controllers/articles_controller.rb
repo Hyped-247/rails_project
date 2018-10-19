@@ -35,6 +35,7 @@ class ArticlesController < ApplicationController
     # binding.pry
     # render plain: params[:article].inspect
     @article = Article.new(articles_params)
+    @article.user = User.first
     if @article.save
       flash[:notice] = "Article was created successfully."
       redirect_to article_path(@article)
